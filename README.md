@@ -4,8 +4,8 @@
 🎓 Software Engineering Student at Bethlehem University  
 💻 Passionate about Full-Stack Development | QA | Devops | AI  
 🌱 Currently learning: QA  
-📫 How to reach me: [momen.almo7taseb@gmail.com]  
-🌐 Portfolio: [your-portfolio.com]
+📫 How to reach me: momen.almo7taseb@gmail.com 
+🌐 Portfolio: [Momen's Portfolio](https://github.com/Mo7taseb/Portfolio)
 
 ---
 
