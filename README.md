@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-- 📂 [LMS Platform](https://github.com/Mo7taseb/lms-platform) – React + Spring Boot LMS with mock APIs
+- 📂 [LMS Platform](https://github.com/Mo7taseb/LMS) – React + Spring Boot LMS with mock APIs
 
 ---
 
