@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Momen Almohtaseb
+#  Hi, I'm Momen Almohtaseb
 
-🎓 Software Engineering Student  
-💻 Passionate about building AI-powered full-stack applications that solve real-world problems  
-🌍 Based in Palestine  
-📫 Reach me at: [momen.almo7taseb@gmail.com](mailto:momen.almo7taseb@gmail.com)
+ Software Engineering Student  
+ Passionate about building AI-powered full-stack applications that solve real-world problems  
+ Based in Palestine  
+ Reach me at: [momen.almo7taseb@gmail.com](mailto:momen.almo7taseb@gmail.com)
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🩺 [Lexxi Medical](https://github.com/Mo7taseb/Lexxi_Medical) | AI-powered voice-to-medical-note app with Arabic/English support | Next.js, OpenAI, Groq, TypeScript |
-| 📚 [LMS Platform](https://github.com/Mo7taseb/LMS) | Learning Management System with mock APIs | React, Spring Boot, MySQL |
+|  [Lexxi Medical](https://github.com/Mo7taseb/Lexxi_Medical) | AI-powered voice-to-medical-note app with Arabic/English support | Next.js, OpenAI, Groq, TypeScript |
+|  [LMS Platform](https://github.com/Mo7taseb/LMS) | Learning Management System with mock APIs | React, Spring Boot, MySQL |
 
-🔗 **Live Demo:** [lexxi.vercel.app](https://lexxi.vercel.app/)
+ **Live Demo:** [lexxi.vercel.app](https://lexxi.vercel.app/)
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -47,14 +47,14 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mo7taseb&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7taseb&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:momen.almo7taseb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mo7taseb)
