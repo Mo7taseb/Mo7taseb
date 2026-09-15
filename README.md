@@ -1,6 +1,6 @@
 #  Hi, I'm Momen Almohtaseb
 
- Software Engineering Student  
+ Software Engineering
  Passionate about building AI-powered full-stack applications that solve real-world problems  
  Based in Palestine  
  Reach me at: [momen.almo7taseb@gmail.com](mailto:momen.almo7taseb@gmail.com)
@@ -12,7 +12,6 @@
 | Project | Description | Tech |
 |---|---|---|
 |  [Lexxi Medical](https://github.com/Mo7taseb/Lexxi_Medical) | AI-powered voice-to-medical-note app with Arabic/English support | Next.js, OpenAI, Groq, TypeScript |
-|  [LMS Platform](https://github.com/Mo7taseb/LMS) | Learning Management System with mock APIs | React, Spring Boot, MySQL |
 
  **Live Demo:** [lexxi.vercel.app](https://lexxi.vercel.app/)
 
