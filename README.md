@@ -30,9 +30,21 @@ Sanad brings device monitoring, software deployment, patching, and IT workflows 
 <img src="assets/sanad-software-library.png" alt="Sanad software library with package catalog and deployment actions" width="760">
 </details>
 
-### Techno ERP — multi-tenant business operations
+### Techno ERP — operations at workforce scale
 
-On a three-developer team, I worked on a multi-tenant system for HR, inventory, and project operations. Its GPS attendance flow checks whether a worker is within the configured radius for the assigned project before recording check-in. The application uses Next.js, Spring Boot, and PostgreSQL. Client source code and operational data are private.
+Techno ERP is a live, multi-tenant platform used to run HR, project, payroll, accounting, and inventory workflows for a Saudi business with a large workforce. I was one of three core engineers building the product from the ground up, working end to end on key modules rather than just the interface. One example is GPS attendance: each project has a configured radius, and a worker can check in only when their location is inside it. The stack is Next.js, Spring Boot, and PostgreSQL.
+
+[Visit Techno ERP](https://www.techno-erp.com/) · Client source code is private
+
+<a href="https://www.techno-erp.com/"><img src="assets/techno-erp-dashboard-sanitized.png" alt="Privacy-sanitized Techno ERP dashboard preview showing employee, project, payroll, approval, and attendance navigation" width="760"></a>
+
+<sub>Illustrative, privacy-sanitized preview based on the live interface. Account identifiers and operational metrics are removed; no client records or source code are shared.</sub>
+
+<details>
+<summary>See the attendance and analytics view</summary>
+<br>
+<img src="assets/techno-erp-analytics-sanitized-v2.png" alt="Illustrative Techno ERP attendance and workforce analytics preview with demo-only charts and no operational values" width="760">
+</details>
 
 ### Lexxi Medical — speech to editable medical notes
 
