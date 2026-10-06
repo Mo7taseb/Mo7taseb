@@ -36,14 +36,14 @@ Techno ERP is a live, multi-tenant platform used to run HR, project, payroll, ac
 
 [Visit Techno ERP](https://www.techno-erp.com/) · Client source code is private
 
-<a href="https://www.techno-erp.com/"><img src="assets/techno-erp-dashboard-sanitized.png" alt="Privacy-sanitized Techno ERP dashboard preview showing employee, project, payroll, approval, and attendance navigation" width="760"></a>
+<a href="https://raw.githubusercontent.com/Mo7taseb/Mo7taseb/main/assets/techno-erp-dashboard-sanitized.png"><img src="assets/techno-erp-dashboard-sanitized.png" alt="Privacy-sanitized Techno ERP dashboard preview showing employee, project, payroll, approval, and attendance navigation" width="760"></a>
 
-<sub>Illustrative, privacy-sanitized preview based on the live interface. Account identifiers and operational metrics are removed; no client records or source code are shared.</sub>
+<sub>Illustrative, privacy-sanitized preview based on the live interface. Click to enlarge. Account identifiers and operational metrics are removed; no client records or source code are shared.</sub>
 
 <details>
 <summary>See the attendance and analytics view</summary>
 <br>
-<img src="assets/techno-erp-analytics-sanitized-v2.png" alt="Illustrative Techno ERP attendance and workforce analytics preview with demo-only charts and no operational values" width="760">
+<a href="https://raw.githubusercontent.com/Mo7taseb/Mo7taseb/main/assets/techno-erp-analytics-sanitized-v2.png"><img src="assets/techno-erp-analytics-sanitized-v2.png" alt="Illustrative Techno ERP attendance and workforce analytics preview with demo-only charts and no operational values" width="760"></a>
 </details>
 
 ### Lexxi Medical — speech to editable medical notes
