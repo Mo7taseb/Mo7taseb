@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/profile-hero.svg" alt="Momen Almohtaseb — full-stack software engineer building VocTap, Lexxi Medical, and commerce software" width="1100"></p>
+<p align="center"><picture><source media="(max-width: 640px)" srcset="assets/profile-hero-mobile.svg"><img src="assets/profile-hero.svg" alt="Momen Almohtaseb — full-stack software engineer building VocTap, Lexxi Medical, and commerce software" width="1100"></picture></p>
 
 I build web products across React/Next.js, TypeScript, Python, and Java—usually working from the interface through the API and database. The projects below show what I built, what is live, and which source repositories are private.
 
