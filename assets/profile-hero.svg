@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 344" role="img" aria-labelledby="title description">
+  <title id="title">Momen Almohtaseb — full-stack software engineer</title>
+  <desc id="description">A dark editorial-style banner showing Momen's role, technology focus, and three products: VocTap, Lexxi, and an e-commerce storefront.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1519"/>
+      <stop offset="1" stop-color="#101d22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b6ffd5"/>
+      <stop offset="1" stop-color="#5bd3bc"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#6aa293" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect x="0" y="0" width="1100" height="344" rx="18"/></clipPath>
+    <style>
+      .mono { font-family: 'Cascadia Code', 'Consolas', 'Liberation Mono', monospace; }
+      .sans { font-family: 'Segoe UI', 'Inter', Arial, sans-serif; }
+      .appear { animation: appear .75s ease-out both; }
+      .a2 { animation-delay: .16s; }
+      .a3 { animation-delay: .32s; }
+      .a4 { animation-delay: .48s; }
+      .draw { stroke-dasharray: 340; stroke-dashoffset: 340; animation: draw 1.25s ease-out .25s forwards; }
+      .cursor { animation: pulse 1.25s steps(1) infinite; }
+      @keyframes appear { from { opacity: 0; transform: translateY(9px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      @keyframes pulse { 50% { opacity: .2; } }
+      @media (prefers-reduced-motion: reduce) {
+        .appear, .draw, .cursor { animation: none; stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1100" height="344" fill="url(#surface)"/>
+    <rect width="1100" height="344" fill="url(#grid)"/>
+    <circle cx="-28" cy="322" r="210" fill="#52c49f" opacity=".065"/>
+    <circle cx="1032" cy="10" r="206" fill="#50b8c1" opacity=".055"/>
+    <path d="M24 1H1076Q1099 1 1099 23V320Q1099 343 1076 343H24Q1 343 1 320V24Q1 1 24 1Z" fill="none" stroke="#426158" stroke-width="2"/>
+
+    <g class="appear">
+      <rect x="32" y="29" width="10" height="10" rx="2" fill="#91efb6"/>
+      <text x="53" y="38" fill="#9ec8b4" font-size="13" letter-spacing="2" class="mono">MOMEN / ENGINEERING</text>
+      <path d="M32 57H1068" stroke="#36564f"/>
+      <text x="1026" y="38" fill="#719889" font-size="12" text-anchor="end" class="mono">01 / PROFILE</text>
+    </g>
+
+    <g class="appear a2">
+      <text x="36" y="111" fill="#82cdb1" font-size="14" letter-spacing="3" class="mono">FULL-STACK SOFTWARE ENGINEER</text>
+      <text x="33" y="164" fill="#f2f7f3" font-size="43" font-weight="700" letter-spacing="-.5" class="sans">Momen Almohtaseb</text>
+      <rect x="36" y="179" width="66" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="36" y="214" fill="#bfd3cb" font-size="17" class="sans">I turn product ideas into usable software —</text>
+      <text x="36" y="239" fill="#bfd3cb" font-size="17" class="sans">from interface to API, data, and delivery.</text>
+    </g>
+
+    <g class="appear a3">
+      <rect x="35" y="272" width="180" height="37" rx="18.5" fill="#183029" stroke="#3d7560"/>
+      <circle cx="54" cy="290.5" r="4" fill="#a7f7bd"/>
+      <text x="68" y="296" fill="#c9edd8" font-size="13" class="mono">Bethlehem, Palestine</text>
+      <text x="237" y="296" fill="#82ac9d" font-size="13" class="mono">REACT · TYPESCRIPT · PYTHON · JAVA</text>
+      <rect x="536" y="280" width="7" height="17" rx="1" fill="#8ce8ba" class="cursor"/>
+    </g>
+
+    <path d="M600 73V296" stroke="#33534a"/>
+    <g class="appear a3">
+      <text x="631" y="101" fill="#82cdb1" font-size="13" letter-spacing="2" class="mono">SELECTED BUILDS</text>
+      <text x="1059" y="101" fill="#739c8e" font-size="12" text-anchor="end" class="mono">PRODUCTS / SYSTEMS</text>
+    </g>
+
+    <path d="M650 132V266" fill="none" stroke="url(#accent)" stroke-width="2" class="draw"/>
+    <g class="appear a2">
+      <circle cx="650" cy="142" r="6" fill="#a7f7bd"/>
+      <text x="674" y="140" fill="#f2f7f3" font-size="19" font-weight="650" class="sans">VocTap</text>
+      <text x="674" y="161" fill="#94b8aa" font-size="13" class="sans">Language learning in context</text>
+      <text x="1057" y="145" fill="#6fae98" font-size="12" text-anchor="end" class="mono">01</text>
+    </g>
+    <g class="appear a3">
+      <circle cx="650" cy="203" r="6" fill="#6ce0c5"/>
+      <text x="674" y="201" fill="#f2f7f3" font-size="19" font-weight="650" class="sans">Lexxi Medical</text>
+      <text x="674" y="222" fill="#94b8aa" font-size="13" class="sans">Speech to structured notes</text>
+      <text x="1057" y="206" fill="#6fae98" font-size="12" text-anchor="end" class="mono">02</text>
+    </g>
+    <g class="appear a4">
+      <circle cx="650" cy="264" r="6" fill="#7bb7d2"/>
+      <text x="674" y="262" fill="#f2f7f3" font-size="19" font-weight="650" class="sans">Storefront + Ops</text>
+      <text x="674" y="283" fill="#94b8aa" font-size="13" class="sans">Commerce, inventory, and checkout</text>
+      <text x="1057" y="267" fill="#6fae98" font-size="12" text-anchor="end" class="mono">03</text>
+    </g>
+    <text x="1059" y="324" fill="#648f80" font-size="11" text-anchor="end" class="mono">BUILD / VERIFY / SHIP</text>
+  </g>
+</svg>

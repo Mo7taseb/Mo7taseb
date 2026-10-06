@@ -1,6 +1,6 @@
-# Momen Almohtaseb
+<p align="center"><img src="assets/profile-hero.svg" alt="Momen Almohtaseb — full-stack software engineer building VocTap, Lexxi Medical, and commerce software" width="1100"></p>
 
-Full-stack software engineer based in Bethlehem, Palestine. I build web products across React/Next.js, TypeScript, Python, and Java—usually working from the interface through the API and database.
+I build web products across React/Next.js, TypeScript, Python, and Java—usually working from the interface through the API and database. The projects below show what I built, what is live, and which source repositories are private.
 
 [Portfolio](https://solstudio.me) · [LinkedIn](https://www.linkedin.com/in/momenalmohtaseb) · [Email](mailto:momen.almo7taseb@gmail.com)
 
