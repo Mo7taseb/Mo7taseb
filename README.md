@@ -1,60 +1,48 @@
-#  Hi, I'm Momen Almohtaseb
+# Momen Almohtaseb
 
- Software Engineering
- Passionate about building AI-powered full-stack applications that solve real-world problems  
- Based in Palestine  
- Reach me at: [momen.almo7taseb@gmail.com](mailto:momen.almo7taseb@gmail.com)
+Full-stack software engineer based in Bethlehem, Palestine. I build web products across React/Next.js, TypeScript, Python, and Java—usually working from the interface through the API and database.
 
----
+[Portfolio](https://solstudio.me) · [LinkedIn](https://www.linkedin.com/in/momenalmohtaseb) · [Email](mailto:momen.almo7taseb@gmail.com)
 
-##  Projects
+## Selected work
 
-| Project | Description | Tech |
-|---|---|---|
-|  [Lexxi Medical](https://github.com/Mo7taseb/Lexxi_Medical) | AI-powered voice-to-medical-note app with Arabic/English support | Next.js, OpenAI, Groq, TypeScript |
+### VocTap — learn English from what you watch
 
- **Live Demo:** [lexxi.vercel.app](https://lexxi.vercel.app/)
+VocTap turns words and phrases in videos and web pages into explanations you can save and review later. I work across the Chrome extension, learner dashboard, backend, and bilingual website with my co-founder. The product uses TypeScript, React/Next.js, Cloudflare Workers, and D1.
 
----
+[Visit VocTap](https://voctap.com) · [Watch a short product demo](https://voctap.com/voctap-hero-demo.mp4) · Source is private
 
-##  Tech Stack
+<a href="https://voctap.com"><img src="assets/voctap-home.png" alt="VocTap Arabic landing page showing the contextual word explanation experience" width="720"></a>
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Lexxi Medical — speech to editable medical notes
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+An Arabic/English workflow for recording or uploading a consultation, transcribing it, and turning it into an editable structured note. I built the original client version with React, FastAPI, Whisper, and an LLM API; this separate public portfolio version uses Next.js and TypeScript.
 
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+[Live app](https://lexxi.vercel.app) · [Public source](https://github.com/Mo7taseb/Lexxi_Medical)
 
-**AI & Cloud**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<a href="https://lexxi.vercel.app"><img src="assets/lexxi-home.png" alt="Lexxi Medical Arabic consultation-to-note interface" width="720"></a>
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+### E-commerce storefront and operations dashboard
 
----
+Built a customer storefront and an operations dashboard for catalog, inventory, orders, and checkout. The project uses Next.js, TypeScript, Supabase/PostgreSQL, and Playwright end-to-end tests. The storefront is public; its source and admin area are not.
 
-##  GitHub Stats
+[View the storefront](https://ecomm-orcin-six.vercel.app)
 
-![Momen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mo7taseb&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo7taseb&layout=compact&theme=tokyonight&hide_border=true)
+### Learning management system
 
----
+A React/TypeScript course-management demo with student and admin flows, role-based routes, assessments, and progress tracking. This public version uses local mock data rather than a production backend.
 
-##  Connect with Me
+[Live demo](https://lms-omega-gray.vercel.app) · [Public source](https://github.com/Mo7taseb/LMS)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:momen.almo7taseb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mo7taseb)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mo7taseb)
+## Other engineering work
+
+- **Techno ERP:** worked on a multi-tenant business system spanning HR, GPS-radius attendance, inventory, and role-based access using Next.js, Spring Boot, and PostgreSQL.
+- **Skycore Cloud:** worked on a self-hosted endpoint-management product using Next.js, FastAPI, and PostgreSQL, including remote-access workflows and access control. This product is still in development and testing.
+
+These product repositories are private. I can explain my contributions and technical decisions without sharing client or team code.
+
+## Technologies I use
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI, Django, Java, Spring Boot, TypeScript APIs
+- **Data and delivery:** PostgreSQL, Supabase, Cloudflare D1, Docker, GitHub Actions, Playwright
