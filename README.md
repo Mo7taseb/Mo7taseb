@@ -58,9 +58,9 @@ An Arabic/English workflow for recording or uploading a consultation, transcribi
 
 Built a customer storefront and an operations dashboard for catalog, inventory, orders, and checkout. The project uses Next.js, TypeScript, Supabase/PostgreSQL, and Playwright end-to-end tests. The storefront is public; its source and admin area are not.
 
-[View the storefront](https://ecomm-orcin-six.vercel.app)
+[View the storefront](https://leaderperfumes.com/)
 
-<a href="https://ecomm-orcin-six.vercel.app"><img src="assets/ecommerce-home.png" alt="Arabic perfume storefront homepage" width="720"></a>
+<a href="https://leaderperfumes.com/"><img src="assets/ecommerce-home.png" alt="Arabic perfume storefront homepage" width="720"></a>
 
 ### Learning management system
 
