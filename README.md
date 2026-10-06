@@ -16,9 +16,9 @@ VocTap turns words and phrases in videos and web pages into explanations you can
 
 ### Lexxi Medical — speech to editable medical notes
 
-An Arabic/English workflow for recording or uploading a consultation, transcribing it, and turning it into an editable structured note. I built the original client version with React, FastAPI, Whisper, and an LLM API; this separate public portfolio version uses Next.js and TypeScript. The public demo is for synthetic/sample information only, not real patient data.
+An Arabic/English workflow for recording or uploading a consultation, transcribing it, and turning it into an editable structured note. I built the original client version with React, FastAPI, Whisper, and an LLM API; this separate portfolio demo uses Next.js and TypeScript. The public demo is for synthetic/sample information only, not real patient data.
 
-[Portfolio demo](https://lexxi.vercel.app) · [Public source](https://github.com/Mo7taseb/Lexxi_Medical)
+[Portfolio demo](https://lexxi.vercel.app) · Source is private
 
 <a href="https://lexxi.vercel.app"><img src="assets/lexxi-home.png" alt="Lexxi Medical Arabic consultation-to-note interface" width="720"></a>
 
