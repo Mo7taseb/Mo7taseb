@@ -28,6 +28,8 @@ Built a customer storefront and an operations dashboard for catalog, inventory, 
 
 [View the storefront](https://ecomm-orcin-six.vercel.app)
 
+<a href="https://ecomm-orcin-six.vercel.app"><img src="assets/ecommerce-home.png" alt="Arabic perfume storefront homepage" width="720"></a>
+
 ### Learning management system
 
 A React/TypeScript course-management demo with student and admin flows, role-based routes, assessments, and progress tracking. This public version uses local mock data rather than a production backend.
