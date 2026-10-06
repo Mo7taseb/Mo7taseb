@@ -1,6 +1,6 @@
-<p align="center"><picture><source media="(max-width: 640px)" srcset="assets/profile-hero-mobile.svg"><img src="assets/profile-hero.svg" alt="Momen Almohtaseb — full-stack software engineer building VocTap, Lexxi Medical, and commerce software" width="1100"></picture></p>
+<p align="center"><picture><source media="(max-width: 640px)" srcset="assets/profile-hero-mobile.svg"><img src="assets/profile-hero.svg" alt="Momen Almohtaseb — full-stack software engineer building VocTap, Sanad Engine, and Techno ERP" width="1100"></picture></p>
 
-I build web products across React/Next.js, TypeScript, Python, and Java—usually working from the interface through the API and database. The projects below show what I built, what is live, and which source repositories are private.
+I build web products across React/Next.js, TypeScript, Python, and Java—usually working from the interface through the API and database. The projects below show my work on live products, team systems, and portfolio demos. Client and team code is not published here.
 
 [Portfolio](https://solstudio.me) · [LinkedIn](https://www.linkedin.com/in/momenalmohtaseb) · [Email](mailto:momen.almo7taseb@gmail.com)
 
@@ -13,6 +13,26 @@ VocTap turns words and phrases in videos and web pages into explanations you can
 [Visit VocTap](https://voctap.com) · [Watch a short product demo](https://voctap.com/voctap-hero-demo.mp4) · Source is private
 
 <a href="https://voctap.com"><img src="assets/voctap-home.png" alt="VocTap Arabic landing page showing the contextual word explanation experience" width="720"></a>
+
+### Sanad Engine — IT operations platform
+
+Sanad brings device monitoring, software deployment, patching, and IT workflows into one product. On the engineering team, I worked on the dashboard and design system, Active Directory integration, and Windows agent lifecycle. My contributions span the web interface and backend workflows; this is a team product, not a solo project.
+
+[Visit Sanad](https://sanad.f9.sa/) · Team source code is not published here
+
+<a href="https://sanad.f9.sa/"><img src="assets/sanad-dashboard-anonymized.png" alt="Sanad dashboard showing fleet status, patch compliance, and security overview; device names anonymized for this portfolio" width="760"></a>
+
+<sub>Development preview; device names have been anonymized.</sub>
+
+<details>
+<summary>See the software library</summary>
+<br>
+<img src="assets/sanad-software-library.png" alt="Sanad software library with package catalog and deployment actions" width="760">
+</details>
+
+### Techno ERP — multi-tenant business operations
+
+On a three-developer team, I worked on a multi-tenant system for HR, inventory, and project operations. Its GPS attendance flow checks whether a worker is within the configured radius for the assigned project before recording check-in. The application uses Next.js, Spring Boot, and PostgreSQL. Client source code and operational data are private.
 
 ### Lexxi Medical — speech to editable medical notes
 
@@ -38,10 +58,9 @@ A React/TypeScript course-management demo with student and admin flows, role-bas
 
 ## Other engineering work
 
-- **Techno ERP:** worked on a multi-tenant business system spanning HR, GPS-radius attendance, inventory, and role-based access using Next.js, Spring Boot, and PostgreSQL.
 - **Skycore Cloud:** worked on a self-hosted endpoint-management product using Next.js, FastAPI, and PostgreSQL, including remote-access workflows and access control. This product is still in development and testing.
 
-These product repositories are private. I can explain my contributions and technical decisions without sharing client or team code.
+I can explain my contributions and technical decisions without sharing client or team code.
 
 ## Technologies I use
 
